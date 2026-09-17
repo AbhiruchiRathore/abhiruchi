@@ -1,0 +1,49 @@
+# Svayaa
+
+> Svayaa is a digital marketing services marketplace where businesses can buy professional marketing services individually or in bundles — no contracts, no agency retainers, just expert delivery on demand.
+
+## About
+
+Svayaa makes professional digital marketing accessible to every business. Browse a catalog of services, add what you need to your cart, and checkout in minutes. Every service is handled by verified marketing professionals with proven track records. Fast delivery, transparent pricing, and no hidden fees.
+
+## Services
+
+- Instagram Post Design: Custom Instagram post designs that stop the scroll and elevate your brand. From $49.
+- Instagram Reel: Engaging short-form videos that boost reach and engagement. From $99.
+- Social Media Management: Full-service social media management to grow your presence. From $299/month.
+- Google Ads Setup: Professional Google Ads setup to drive qualified traffic. From $499.
+- Meta Ads Setup: Meta Ads (Facebook & Instagram) setup with precision targeting. From $499.
+- SEO Audit: Comprehensive SEO audit with actionable recommendations. From $399.
+- Landing Page Design: High-converting landing pages that turn visitors into customers. From $899.
+- Google Business Profile Setup: Professional Google Business Profile setup & optimization. From $249.
+- Content Calendar: Strategic 30-day content calendar with post ideas and captions. From $199.
+- Graphic Designing: Custom graphic design for ads, social media, print, and branding. From $349.
+- AI Video Production: Professional AI-generated videos for ads, social, and brand storytelling. Custom pricing.
+- Web Design Services: Custom website design and development for businesses of all sizes. Custom pricing.
+- Digital Marketing Consulting: One-on-one consulting to build your digital marketing strategy. $499.
+- Website Auditing & Revamping: Comprehensive website audit with a full redesign to boost performance. Custom pricing.
+- AEO & GEO Audit: Answer Engine and Generative Engine Optimization audit for AI search visibility. From $599.
+- Google Ads Management: Ongoing Google Ads campaign management with daily optimization, bid management, and A/B testing. From $999/month.
+- ChatGPT Ads: AI-powered ad creation and optimization using ChatGPT for Google & Meta campaigns. From $799/month.
+
+## Bundles
+
+- Starter Social Media Bundle: 10 Instagram Posts + 5 Reels + 1 Month Management. $799.
+- Growth Ads Bundle: Google Ads Setup + Meta Ads Setup + 1 Month Optimization. $1,299.
+- Complete Digital Marketing: All-in-One Social Media + Ads + SEO + Content Calendar. $2,000.
+
+## Pages
+
+- [Home](https://svayaa.com/)
+- [All Services](https://svayaa.com/services)
+- [Packages & Bundles](https://svayaa.com/packages)
+- [How It Works](https://svayaa.com/how-it-works)
+- [Case Studies](https://svayaa.com/case-studies)
+- [FAQ](https://svayaa.com/faq)
+- [About Us](https://svayaa.com/about)
+- [Contact](https://svayaa.com/contact)
+
+## Contact
+
+- Website: https://svayaa.com
+- Email: hello@svayaa.com
