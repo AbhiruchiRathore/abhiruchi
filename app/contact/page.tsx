@@ -72,8 +72,7 @@ export default function ContactPage() {
             <div className="space-y-4">
               <div className="rounded-xl border border-border p-5">
                 <Mail className="h-5 w-5 text-violet-deep" />
-                <p className="mt-2 text-sm font-semibold text-foreground">Email Us</p>
-                <p className="mt-0.5 text-sm text-muted-foreground">hello@svayaa.com</p>
+                <p className="mt-2 text-sm font-semibold text-foreground">Email Us</ 
                 <p className="text-sm text-muted-foreground">support@svayaa.com</p>
               </div>
               <div className="rounded-xl border border-border p-5">
