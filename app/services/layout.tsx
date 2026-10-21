@@ -1,9 +1,9 @@
 import type { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: 'All Digital Marketing Services',
+  title: 'Digital Marketing Services Online | SEO, Ads & Social | Svayaa',
   description:
-    'Browse all digital marketing services on Svayaa. SEO, Google Ads, Meta Ads, social media management, landing pages, and more. Buy online with transparent pricing.',
+   'Browse SEO, Google Ads, Meta Ads, social media management, web design and AI creative services. Buy individually from $49. No contracts, fast delivery.',
   alternates: { canonical: '/services' },
 };
 
