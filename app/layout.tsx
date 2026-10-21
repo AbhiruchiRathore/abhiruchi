@@ -23,22 +23,20 @@ const siteUrl = 'https://svayaa.com';
 export const metadata: Metadata = {
   metadataBase: new URL(siteUrl),
   title: {
-    default: 'Svayaa | Buy Digital Marketing Services Online',
+    default: 'Svayaa | Global Digital Marketing Services for Business',
     template: '%s | Svayaa',
   },
   description:
-    'Buy professional digital marketing services individually or in bundles. SEO, Google Ads, Meta Ads, social media management, landing pages, and more. No contracts. Fast delivery. US-based.',
+    'Buy SEO, Google Ads, Meta Ads and social media marketing services online. Trusted by businesses worldwide. Flexible bundles, no contracts, fast delivery.',
   keywords: [
-    'digital marketing services',
-    'buy marketing services online',
-    'SEO services',
-    'Google Ads setup',
-    'Meta Ads setup',
+    'digital marketing services for small business',
+    'social media marketing for small business',
+    'google ads management services',
+    'digital marketing packages for small business',
     'social media management',
-    'Instagram post design',
-    'landing page design',
-    'marketing marketplace',
-    'digital marketing marketplace',
+    'digital marketing for startups',
+    'SEO services',
+    'online marketing services'
   ],
   authors: [{ name: 'Svayaa' }],
   creator: 'Svayaa',
@@ -51,15 +49,15 @@ export const metadata: Metadata = {
     locale: 'en_US',
     url: siteUrl,
     siteName: 'Svayaa',
-    title: 'Svayaa | Buy Digital Marketing Services Online',
+    title: 'Svayaa | Global Digital Marketing Services for Business',
     description:
-      'Buy professional digital marketing services individually or in bundles. No contracts. Fast delivery. Expert marketers.',
+      'SEO, Google Ads, Meta Ads and social media marketing for businesses worldwide. Buy individually or in bundles. No contracts.',
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Svayaa | Buy Digital Marketing Services Online',
+    title: 'Svayaa | Global Digital Marketing Services for Business',
     description:
-      'Buy professional digital marketing services individually or in bundles. No contracts. Fast delivery.',
+      'SEO, Google Ads, Meta Ads and social media marketing for businesses worldwide. No contracts.',
   },
   robots: {
     index: true,
