@@ -78,7 +78,7 @@ export default function ContactPage() {
               <div className="rounded-xl border border-border p-5">
                 <Phone className="h-5 w-5 text-violet-deep" />
                 <p className="mt-2 text-sm font-semibold text-foreground">Call Us</p>
-                <p className="mt-0.5 text-sm text-muted-foreground">+91 9301120170</p>
+                <p className="mt-0.5 text-sm text-muted-foreground">+91 93011 20170</p>
                 <p className="text-xs text-muted-foreground">Mon-Fri, 9am-6pm EST</p>
               </div>
               <div className="rounded-xl border border-border p-5">
