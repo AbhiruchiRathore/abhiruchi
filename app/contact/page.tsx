@@ -26,7 +26,7 @@ export default function ContactPage() {
     setLoading(true);
 
     const submitData = new FormData();
-    submitData.append('access_key', 'bafc74e7-1a1e-4a1c-b177-8c632cc325d8');
+    submitData.append('access_key', '1de268b9-8835-4c1d-8ff0-536cea90c274');
     submitData.append('subject', formData.subject || 'New Contact Form Message');
     submitData.append('from_name', 'Svayaa Website');
     submitData.append('name', formData.name);
